@@ -1,6 +1,6 @@
 # 請求書自動処理システム
 
-Google Apps Scriptを使用した請求書の自動処理システムです。Gmailから請求書を取得し、Vertex AIで分析、Slackに通知、CSVファイルに出力する一連の処理を自動化します。
+Google Apps Scriptを使用した請求書の自動処理システムです。Gmailから請求書を取得し、Vertex AIで分析、Slackに通知、銀行の所定振込用CSVファイルに出力する一連の処理を自動化します。
 
 ## 🚀 機能
 
